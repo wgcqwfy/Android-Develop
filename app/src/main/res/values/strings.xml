@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LearnAndroidUI</string>
+    <string name="btn1">BTN_1</string>
+    <string name="btn2">BTN_2</string>
+    <string name="btn3">BTN_3</string>
+    <string name="btn4">BTN_4</string>
+    <string name="btn5">BTN_5</string>
+    <string name="innerBtn">INNER_BTN</string>
+
+    <string name="clear">清除</string>
+
+    <string name="autoCompleteHint">请选择。。。</string>
+    <string name="tip">请选择您喜欢的人物</string>
+
+</resources>
